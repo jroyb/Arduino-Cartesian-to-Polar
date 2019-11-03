@@ -45,7 +45,7 @@ double returnTheta(double x, double y) {
     }
     else {
       // (X = 0, Y = 0) Technically no direction, therefore set to null.
-      // Can be changed to something else depending on programmers need.
+      // Can be changed to something else depending on programmer's need.
       theta = NULL;
     }
   }
