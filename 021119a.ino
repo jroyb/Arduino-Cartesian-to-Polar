@@ -17,7 +17,7 @@ double returnMagnitude (double x, double y) {
 }
 
 // RETURNS: the theta of a 2D cartesian point from 0 to 2 PI rather than
-//          from 0 to PI / 4 like a basic atan(double) math function.
+//          0 to PI / 4 like a basic atan(double) math function.
 double returnTheta(double x, double y) {
   double theta = 0;
 
